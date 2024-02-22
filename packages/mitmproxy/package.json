@@ -17,7 +17,7 @@
     "@fast-dev/fast-ip": "1.0.1",
     "@types/http-proxy": "^1.17.8",
     "agentkeepalive": "^4.1.4",
-    "axios": "^0.21.1",
+    "axios": "^1.6.7",
     "colors": "^1.1.2",
     "dns-over-http": "^0.2.0",
     "dns-over-tls": "^0.0.8",
